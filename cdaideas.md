@@ -2,7 +2,7 @@ Possible CDA Hackathon Ideas Regarding Safety
 ===============
 
 __1):__ Find a way to display a possible correlation between abseentism and Louisville's open data on Health Inspection violations. If it doesn't correlate, possibly give information on local sickness spikes.
-
+        • An opening for an air quality app! Wink wink.
 __2):__ Use the air quality dataset to provide a multi-platform service to notify users of air quality in the Louisville metro system. Platforms could be email, text, or fancier like the Amazon Echo.
 
         • There is an emergency alert API in beta with Louisville metro
