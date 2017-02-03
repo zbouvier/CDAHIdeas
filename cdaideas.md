@@ -5,8 +5,8 @@ __1):__ Find a way to display a possible correlation between abseentism and Loui
 
 __2):__ Use the air quality dataset to provide a multi-platform service to notify users of air quality in the Louisville metro system. Platforms could be email, text, or fancier like the Amazon Echo.
 
-  • There is an emergency alert API in beta with Louisville metro
-  
+        • There is an emergency alert API in beta with Louisville metro
+
 __3):__ Create an application that lets users fill out a PDF to submit complaints to the Human Relations Commission([PDF](https://louisvilleky.gov/sites/default/files/human_relations/lmhrc_complaint_management_system_form.pdf))
 
 
