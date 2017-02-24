@@ -14,6 +14,20 @@ __3):__ Create an application that lets users fill out a PDF to submit complaint
 
 
 
+
+
+Newest Datasets/Possible Datasets: LMPD Gun Intake,  Emergency Services, Firefight data,
+
+Ideas involving the newer datasets:
+__4):__ Create a 3d data visualization of the firefight data, possibly with clickable points explaining cause, and outcome.
+
+__5):__ Some sort of application or skill that can email you the emergency broadcast, using the city ESA in text form
+
+        • If made into a sort of Alexa skill, could possibly ask for the last emergency broadcast, too.
+
+__6):__
+
+
 ***_Big ideas that I don't think are possible but are really cool nonetheless (not possible meaning that it isn't on the datasets, nor is it necessarily always local, were thought of)_***
 
 •A: Find a dataset of local towings near Louisville, and display cars by their liscense plate to see if it was stolen, just towed, or otherwise.
