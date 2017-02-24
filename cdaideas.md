@@ -19,6 +19,7 @@ __3):__ Create an application that lets users fill out a PDF to submit complaint
 Newest Datasets/Possible Datasets: LMPD Gun Intake,  Emergency Services, Firefight data,
 
 Ideas involving the newer datasets:
+
 __4):__ Create a 3d data visualization of the firefight data, possibly with clickable points explaining cause, and outcome.
 
 __5):__ Some sort of application or skill that can email you the emergency broadcast, using the city ESA in text form
